@@ -22,7 +22,7 @@
 # Currently learning at BeCode
 
 #### **my objectives as a coder / what i want to achieve during BeCode**
-- [ ] get proficient at developing projects with a team so i can work on professional projects after
+- [x] get proficient at developing projects with a team so i can work on professional projects after
 - [ ] getting the (power) tools to build the weird things/sites/tools i dream up sometimes
 - [ ] creative coding
 - [ ] being able to set up effective sites to help out friends / initiatives I want to support
