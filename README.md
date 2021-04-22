@@ -1,13 +1,5 @@
 # Byrthe – designer and to-be coder
 
-Hello there, I'm Byrthe. 
-
-I work as a designer and organisor. I was working as a graphic designer from 2012 until 2018, making things like visual identies, posters, web designs and packaging. If you are interested, I  have an old minimal portfolio [**up here**](https://www.byrthelemmens.com).
-
-Since 2018 I also got active in a few queer collectives, organising events and spaces in Brussels, for and by queer people.
-
-<br>
-
 #### **i'm surprisingly good at**
 - Frenglish
 - cooking
