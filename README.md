@@ -1,6 +1,6 @@
 # Hello hello
 
-I'm a front-end developer, graphic designer and a project manager based in Brussels.
+I'm a front-end developer, graphic designer and a organisor based in Brussels.
 I like to work with Vue / Nuxt.
 
 Some projects i've worked on the past months while at BeCode:
