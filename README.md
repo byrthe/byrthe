@@ -1,13 +1,16 @@
-# Hello there 👋
+## Hello there 👋
 
 I am a junior front-end developer, an experienced graphic designer and a organisor based in Brussels.
 My stack includes: HTML, CSS, SCSS, Javascript, Vue and Nuxt. I'm currently focussing on Javascript and want to get into Typescript and animations soon.
 
 📁 My portfolio of development and design projects [can be found here.](https://byrthe.github.io/portfolio/)
 
-⚙️ I'm currently doing a traineeship at Becode until November '21.
+---
 
-# List of BeCode projects:
+## ⚙️ Web development
+Currently i'm doing a traineeship at Becode until November '21.
+
+A few of my BeCode projects:
 
 ![immo project screenshot](immo.png)
 ## Immo price estimator 
