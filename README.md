@@ -15,8 +15,13 @@ For the challenge we were asked to interact with GET and POST to an API that was
 ### [Demo site](https://kind-visvesvaraya-ee044c.netlify.app/)
 ### [Repository](https://github.com/byrthe/vue-immo-app)
 
-![immo project screenshot](skillbank1.png)
+![skillbank project screenshot](skillbank1.png)
 ## Skillbank
-For this project we were asked to explore relational database architecture using SQLite3 and node.js. I made a basic prototype for a skill sharing website. The site is currently not deployed nor responsive, but if i'm working towards that. I used HTML and Bootstrap as a css framework, node and sqlite3.
+For this project we were asked to explore relational database architecture using SQLite3 and node.js. I made a basic prototype for a skill sharing website. The site is currently deployed without a database, and it's not responsive, but i'd like to work towards that. I used HTML and Bootstrap as a css framework, node and sqlite3.
+### [Demo](https://skillbank.herokuapp.com/#)
 ### [Repository](https://byrthe.github.io/skillBankApp/)
 
+![portfolio screenshot](portfolio.png)
+## Portfolio
+A small portfolio overview that showcases my graphic design work and development work. I'm still working on extending it with some features. Built with Nuxt, Vue and Bootstrap-vue.
+### [website](https://byrthe.github.io/portfolio/)
