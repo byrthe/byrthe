@@ -11,7 +11,7 @@ My stack includes: HTML, CSS, SCSS, Javascript, Vue and Nuxt. I'm currently focu
 
 ![immo project screenshot](immo.png)
 ## Immo price estimator 
-For the challenge we were asked to interact with GET and POST to an API that was created by a student from the AI class. The API calculates the estimation based on scraped Immo-web data. I used Vue and Tailwind. A project in collaboration with Atefeh Hossein who developed the API.
+For the challenge we were asked to interact with GET and POST to an API that was created by a student from the AI class. The API calculates the estimation based on scraped Immo-web data. I used Vue and Tailwind. A project in collaboration with Atefeh Hossein who developed the API. The first load of the API data is rather slow so can take a while...⏱
 ### [Demo site](https://kind-visvesvaraya-ee044c.netlify.app/)
 ### [Repository](https://github.com/byrthe/vue-immo-app)
 
