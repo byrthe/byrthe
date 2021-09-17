@@ -12,6 +12,11 @@ Currently i'm doing a traineeship at Becode until November '21.
 
 A few of my BeCode projects:
 
+![portfolio screenshot](portfolio.png)
+## Portfolio
+A small portfolio overview that showcases my graphic design work and development work. I'm still working on extending it with some features. Built with Nuxt, Vue and Bootstrap-vue.
+### [website](https://byrthe.github.io/portfolio/)
+
 ![immo project screenshot](immo.png)
 ## Immo price estimator 
 For the challenge we were asked to interact with GET and POST to an API that was created by a student from the AI class. The API calculates the estimation based on scraped Immo-web data. I used Vue and Tailwind. A project in collaboration with Atefeh Hossein who developed the API. The first load of the API data is rather slow so can take a while...⏱
@@ -24,7 +29,3 @@ For this project we were asked to explore relational database architecture using
 ### [Demo](https://skillbank.herokuapp.com/#)
 ### [Repository](https://byrthe.github.io/skillBankApp/)
 
-![portfolio screenshot](portfolio.png)
-## Portfolio
-A small portfolio overview that showcases my graphic design work and development work. I'm still working on extending it with some features. Built with Nuxt, Vue and Bootstrap-vue.
-### [website](https://byrthe.github.io/portfolio/)
