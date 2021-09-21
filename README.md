@@ -34,6 +34,6 @@ For this project we were asked to explore relational database architecture using
 A collaborative project in which we were explored how to work with a non-relational database to create spin off of facebook. We used passport.js for authentication and MongoDB as database. We could register, login, and post on our wall, and see a feed with all the posts in chronological order. We could edit and delete our posts.
 The site is deployed but unfortunately due to third party issues, we don't have the database set up anymore.
 ### [Demo](https://facebookbecode.herokuapp.com/)
-### [Reposititory](https://github.com/byrthe/bookface)
+### [Repository](https://github.com/byrthe/bookface)
 
 
